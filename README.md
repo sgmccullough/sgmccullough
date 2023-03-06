@@ -1,9 +1,9 @@
-Hello, I'm Scott.
+Hello, I'm Scott. 👋
 
-Senior Cloud Infrastructure Engineer @ Sonos.
+Senior Cloud Infrastructure Engineer @ Sonos. 📢
 
-BS in CS @ UMass Amherst.
+BS in CS @ UMass Amherst. 🏫
 
-Primarily working in and around Kubernetes.
+Primarily working in and around Kubernetes. 💻
 
-Passionate about Social Good, Environmentalism, and Dogs.
+Passionate about Social Good, Environmentalism, open-educational access, and Dogs. 🌍
